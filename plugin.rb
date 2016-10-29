@@ -12,7 +12,7 @@ register_asset "common/variables.scss", :variables
 register_asset "stylesheet/global.scss"
 
 ## Desktop only
-register_asset "stylesheet/desktop/main.scss", :desktop
+register_asset "stylesheet/desktop.scss", :desktop
 
 ## Mobile only
-register_asset "stylesheet/mobile/main.scss", :mobile
+register_asset "stylesheet/mobile.scss", :mobile
